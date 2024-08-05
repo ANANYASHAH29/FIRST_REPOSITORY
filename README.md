@@ -1,4 +1,5 @@
 # Authenticate_REPOSITORY
-My 1st github repository
+Login page, Sign up page, Home page
+VerbaGen
 <br>
 Author- Ananya Shah
